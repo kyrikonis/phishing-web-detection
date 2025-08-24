@@ -7,9 +7,8 @@ Phishing is a leading cause of credential theft. I see it as a perfect way to ga
 This project shows an **end-to-end DS pipeline**: 
 Consisting of data sourcing → scraping → feature engineering → modeling → evaluation.
 
-## Data Sources
-- Phishing URLs: e.g., PhishTank / OpenPhish exports
-- Legitimate domains: Tranco Top 1M (or similar)
+## Data
+- https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
 
 ## Method (high level plan)
 1) Load lists of phishing and legitimate URLs  
