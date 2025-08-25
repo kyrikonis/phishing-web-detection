@@ -103,7 +103,7 @@ The trained XGBoost model can classify URLs with 96.34% accuracy and is particul
 - Flagging social engineering attempts
 
 ## 📁 Project Structure
-
+Not all files included below and some have been git ignored within data/.. and models/..
 ```
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
@@ -111,8 +111,6 @@ The trained XGBoost model can classify URLs with 96.34% accuracy and is particul
 │   └── 03_model_training.ipynb
 ├── data/
 ├── models/
-│   ├── xgboost_model.pkl
-│   └── random_forest_model.pkl
 └── README.md
 ```
 
